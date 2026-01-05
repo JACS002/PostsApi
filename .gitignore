@@ -12,3 +12,6 @@ wheels/
 # Variable files
 .env
 .env.*.local
+
+# IDE files
+.vscode/
